@@ -1,5 +1,13 @@
 from ollama import embed, chat
 
-embedding = embed(model="custom_pt", input=["write a poem about AI in psychology", "explain quantum computing in simple terms"])
+embeddings = embed(model="custom_pt", input=["write a poem about AI in psychology", "explain quantum computing in simple terms"])
 
-print (embedding)
+
+response = chat(model="qwen3:0.6b", messages=[
+    {
+    "role": "user",
+    "content": "what is older the chicken or the egg?"
+    }
+])
+
+print(response.message.content)
