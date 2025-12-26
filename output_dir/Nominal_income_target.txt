@@ -1,0 +1,1555 @@
+A nominal income target is a monetary policy target. Such targets are adopted by central banks to manage national economic activity. Nominal aggregates are not adjusted for inflation. Nominal income aggregates that can serve as targets include nominal gross domestic product (NGDP) and nominal gross domestic income (GDI). Central banks use a variety of techniques to hit their targets, including conventional tools such as interest rate targeting or open market operations, unconventional tools such as quantitative easing or interest rates on excess reserves and expectations management to hit its target. The concept of NGDP targeting was formally proposed by neo-Keynesian economists James Meade in 1977 and James Tobin in 1980, although Austrian School economist Friedrich Hayek argued in favor of the stabilization of nominal income as a monetary policy norm as early as 1931 and as late as 1975.
+The concept was resuscitated and popularized in the wake of the 2008 financial crash by a group of economists (most notably Scott Sumner) whose views came to be known as market monetarism. They claimed that the crisis would have been far less severe had central banks adopted some form of nominal income targeting.
+
+
+== Mechanism ==
+The central bank establishes a target level or growth rate of nominal economic activity within a currency zone (usually a single country) for a given period without adjusting for price level changes (inflation/deflation).  Policy is loosened or tightened as needed to hit the target. Since the goal is to hit the target for the coming period, some method of forecasting the default value of the target must be devised to serve as the baseline that indicates the direction and magnitude of policy change required to change the outcome to match that target.
+One such mechanism is conventional economic forecasting. The central bank's forecast, that of some reified econometric model or an average of a group of forecasts prepared by independent groups are examples of such forecasts. Another method is to create a futures market for the target and adjust policy until the market predicts that the target will be met.
+
+
+=== Level targeting vs rate targeting ===
+When supply or demand shocks or policy errors push NGDP growth above or below the target, market monetarists argue that the bank should target the level rather than the rate of growth of NGDP. With level targeting if a recession pushes NGDP to 2% for one year, the bank adds the shortfall to the next year's target to return the economy to trend growth.  The name for this policy is NGDP level targeting (NGDPLT). The rate targeting alternative, which targets a constant growth rate per period allows growth to drift lower or higher over time than implied by straightforward compound growth, because each period's target growth depends on the nominal income in the prior only.
+
+
+== Effective policy ==
+Monetary policy that ensures a NGDP target is met by definition avoids recessions in nominal terms, and by maintaining aggregate demand softens recessions in real terms albeit by adding inflation to ensure NGDP is level. A US target of five percent growth is often recommended with the expectation that it would on average comprise three percent real growth (the historical average growth rate during the so-called Great Moderation) and two percent inflation (as currently targeted by the US Federal Reserve). An alternative target of three percent was proposed with the expectation of nominal growth mirroring the real growth rate, and zero average inflation. This lower target has the potential downside of being deflationary if real growth exceeds the three percent target, implying deflation. However, any nominal target could conceivably be either deflationary –  or inflationary –  if real growth sharply deviated from expectations in either direction.
+
+
+== Labour supply ==
+Charlie Bean discussed optimal conditions for nominal income targets. Let 
+  
+    
+      
+        
+          L
+          
+            t
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle L_{t}^{d}}
+  
+ and 
+  
+    
+      
+        
+          L
+          
+            t
+          
+          
+            s
+          
+        
+      
+    
+    {\displaystyle L_{t}^{s}}
+  
+ be labour demand and labour supply, respectively. They are expressed as follows:
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            L
+            
+              t
+            
+            
+              d
+            
+          
+        
+        =
+        
+          
+            1
+            a
+          
+        
+        
+          [
+          
+            −
+            ln
+            ⁡
+            
+              
+                W
+                
+                  t
+                
+              
+            
+            +
+            ln
+            ⁡
+            
+              
+                P
+                
+                  t
+                
+              
+            
+            +
+            b
+            +
+            
+              s
+              
+                t
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \ln {L_{t}^{d}}={\frac {1}{a}}\left[-\ln {W_{t}}+\ln {P_{t}}+b+s_{t}\right]}
+  
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            L
+            
+              t
+            
+            
+              s
+            
+          
+        
+        =
+        
+          
+            1
+            d
+          
+        
+        
+          [
+          
+            ln
+            ⁡
+            
+              
+                W
+                
+                  t
+                
+              
+            
+            −
+            ln
+            ⁡
+            
+              
+                P
+                
+                  t
+                
+              
+            
+            −
+            c
+          
+          ]
+        
+        
+        ,
+      
+    
+    {\displaystyle \ln {L_{t}^{s}}={\frac {1}{d}}\left[\ln {W_{t}}-\ln {P_{t}}-c\right]\;,}
+  
+
+where 
+  
+    
+      
+        
+          W
+          
+            t
+          
+        
+      
+    
+    {\displaystyle W_{t}}
+  
+ and 
+  
+    
+      
+        
+          P
+          
+            t
+          
+        
+      
+    
+    {\displaystyle P_{t}}
+  
+ are the wage and price level respectively. 
+  
+    
+      
+        
+          s
+          
+            t
+          
+        
+      
+    
+    {\displaystyle s_{t}}
+  
+ is a productivity shock. And 
+  
+    
+      
+        b
+        =
+        ln
+        ⁡
+        (
+        1
+        −
+        a
+        )
+        ,
+        
+        
+        (
+        0
+        <
+        a
+        <
+        1
+        )
+      
+    
+    {\displaystyle b=\ln(1-a),\;\;(0<a<1)}
+  
+, and d is positive. In an equilibrium state, the labour demand and supply become equal to each other, which yields 
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            W
+            
+              t
+            
+            
+              ∗
+            
+          
+        
+        =
+        ln
+        ⁡
+        
+          
+            P
+            
+              t
+            
+          
+        
+        +
+        
+          
+            
+              a
+              c
+              +
+              b
+              d
+            
+            
+              a
+              +
+              d
+            
+          
+        
+        +
+        
+          
+            
+              d
+              
+                s
+                
+                  t
+                
+              
+            
+            
+              a
+              +
+              d
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \ln {W_{t}^{*}}=\ln {P_{t}}+{\frac {ac+bd}{a+d}}+{\frac {ds_{t}}{a+d}}\;,}
+  
+
+where 
+  
+    
+      
+        
+          W
+          
+            t
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle W_{t}^{*}}
+  
+ is the market clearing level. Then consider the expected market clearing level of the wage:
+
+  
+    
+      
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        ln
+        ⁡
+        
+          W
+        
+        ]
+        =
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        ln
+        ⁡
+        
+          
+            P
+            
+              t
+            
+          
+        
+        ]
+        +
+        
+          
+            
+              a
+              c
+              +
+              b
+              d
+            
+            
+              a
+              +
+              d
+            
+          
+        
+        +
+        
+          
+            d
+            
+              a
+              +
+              d
+            
+          
+        
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        
+          s
+          
+            t
+          
+        
+        ]
+        
+        .
+      
+    
+    {\displaystyle E_{t-1}[\ln {W}]=E_{t-1}[\ln {P_{t}}]+{\frac {ac+bd}{a+d}}+{\frac {d}{a+d}}E_{t-1}[s_{t}]\;.}
+  
+
+Substituting into the labour demand equation, we write it as:
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            L
+            
+              t
+            
+            
+              d
+            
+          
+        
+        =
+        
+          
+            1
+            a
+          
+        
+        
+          (
+          
+            ln
+            ⁡
+            
+              
+                P
+                
+                  t
+                
+              
+            
+            −
+            
+              E
+              
+                t
+                −
+                1
+              
+            
+            [
+            ln
+            ⁡
+            
+              
+                P
+                
+                  t
+                
+              
+            
+            ]
+            +
+            
+              s
+              
+                t
+              
+            
+            −
+            
+              
+                d
+                
+                  a
+                  +
+                  d
+                
+              
+            
+            
+              E
+              
+                t
+                −
+                1
+              
+            
+            [
+            
+              s
+              
+                t
+              
+            
+            ]
+            +
+            b
+            −
+            
+              
+                
+                  a
+                  c
+                  +
+                  b
+                  d
+                
+                
+                  a
+                  +
+                  d
+                
+              
+            
+          
+          )
+        
+        
+        .
+      
+    
+    {\displaystyle \ln {L_{t}^{d}}={\frac {1}{a}}\left(\ln {P_{t}}-E_{t-1}[\ln {P_{t}}]+s_{t}-{\frac {d}{a+d}}E_{t-1}[s_{t}]+b-{\frac {ac+bd}{a+d}}\right)\;.}
+  
+
+Since output 
+  
+    
+      
+        
+          Y
+          
+            t
+          
+        
+      
+    
+    {\displaystyle Y_{t}}
+  
+ is expressed as 
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+          
+        
+        =
+        (
+        1
+        −
+        a
+        )
+        ln
+        ⁡
+        
+          
+            L
+            
+              t
+            
+          
+        
+        +
+        
+          s
+          
+            t
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \ln {Y_{t}}=(1-a)\ln {L_{t}}+s_{t}\;,}
+  
+
+it turns out that it becomes:
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+          
+        
+        =
+        
+          
+            
+              1
+              −
+              a
+            
+            a
+          
+        
+        
+          (
+          
+            ln
+            ⁡
+            
+              
+                P
+                
+                  t
+                
+              
+            
+            −
+            
+              E
+              
+                t
+                −
+                1
+              
+            
+            [
+            ln
+            ⁡
+            
+              
+                P
+                
+                  t
+                
+              
+            
+            ]
+            −
+            
+              
+                d
+                
+                  a
+                  +
+                  d
+                
+              
+            
+            
+              E
+              
+                t
+                −
+                1
+              
+            
+            [
+            
+              s
+              
+                t
+              
+            
+            ]
+            +
+            b
+            −
+            
+              
+                
+                  a
+                  c
+                  +
+                  b
+                  d
+                
+                
+                  a
+                  +
+                  d
+                
+              
+            
+          
+          )
+        
+        +
+        
+          
+            1
+            a
+          
+        
+        
+          s
+          
+            t
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \ln {Y_{t}}={\frac {1-a}{a}}\left(\ln {P_{t}}-E_{t-1}[\ln {P_{t}}]-{\frac {d}{a+d}}E_{t-1}[s_{t}]+b-{\frac {ac+bd}{a+d}}\right)+{\frac {1}{a}}s_{t}\;.}
+  
+
+Immediately we have 
+
+  
+    
+      
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+          
+        
+        ]
+        =
+        
+          
+            
+              1
+              −
+              a
+            
+            a
+          
+        
+        
+          (
+          
+            −
+            
+              
+                d
+                
+                  a
+                  +
+                  d
+                
+              
+            
+            
+              E
+              
+                t
+                −
+                1
+              
+            
+            [
+            
+              s
+              
+                t
+              
+            
+            ]
+            +
+            b
+            −
+            
+              
+                
+                  a
+                  c
+                  +
+                  b
+                  d
+                
+                
+                  a
+                  +
+                  d
+                
+              
+            
+          
+          )
+        
+        +
+        
+          
+            1
+            a
+          
+        
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        
+          s
+          
+            t
+          
+        
+        ]
+        
+        ,
+      
+    
+    {\displaystyle E_{t-1}[\ln {Y_{t}}]={\frac {1-a}{a}}\left(-{\frac {d}{a+d}}E_{t-1}[s_{t}]+b-{\frac {ac+bd}{a+d}}\right)+{\frac {1}{a}}E_{t-1}[s_{t}]\;,}
+  
+
+and that yields
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+          
+        
+        −
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+          
+        
+        ]
+        =
+        
+          
+            
+              1
+              −
+              a
+            
+            a
+          
+        
+        (
+        ln
+        ⁡
+        
+          
+            P
+            
+              t
+            
+          
+        
+        −
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        ln
+        ⁡
+        
+          
+            P
+            
+              t
+            
+          
+        
+        ]
+        )
+        +
+        
+          
+            1
+            a
+          
+        
+        (
+        
+          s
+          
+            t
+          
+        
+        −
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        
+          s
+          
+            t
+          
+        
+        ]
+        )
+        
+        .
+      
+    
+    {\displaystyle \ln {Y_{t}}-E_{t-1}[\ln {Y_{t}}]={\frac {1-a}{a}}(\ln {P_{t}}-E_{t-1}[\ln {P_{t}}])+{\frac {1}{a}}(s_{t}-E_{t-1}[s_{t}])\;.}
+  
+
+This equation says that a negative productivity shock of, say, 5 percent is cancelled out by the increase in the price level of 5 percent, provided that the money wage is fixed. If we consider the full information level of output 
+  
+    
+      
+        
+          Y
+          
+            t
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle Y_{t}^{*}}
+  
+, which is obtained by setting 
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            W
+            
+              t
+            
+          
+        
+        =
+        ln
+        ⁡
+        
+          
+            W
+            
+              t
+            
+            
+              ∗
+            
+          
+        
+      
+    
+    {\displaystyle \ln {W_{t}}=\ln {W_{t}^{*}}}
+  
+, then we have
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+            
+              ∗
+            
+          
+        
+        =
+        
+          
+            
+              1
+              −
+              a
+            
+            a
+          
+        
+        
+          (
+          
+            b
+            −
+            
+              
+                
+                  a
+                  c
+                  +
+                  b
+                  d
+                
+                
+                  a
+                  +
+                  d
+                
+              
+            
+            +
+            
+              s
+              
+                t
+              
+            
+            −
+            
+              
+                d
+                
+                  a
+                  +
+                  d
+                
+              
+            
+            
+              s
+              
+                t
+              
+            
+          
+          )
+        
+        +
+        
+          s
+          
+            t
+          
+        
+        
+        
+        .
+      
+    
+    {\displaystyle \ln {Y_{t}^{*}}={\frac {1-a}{a}}\left(b-{\frac {ac+bd}{a+d}}+s_{t}-{\frac {d}{a+d}}s_{t}\right)+s_{t}\;\;.}
+  
+
+Then the deviation of output from its full information level becomes: 
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+          
+        
+        −
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+            
+              ∗
+            
+          
+        
+        =
+        
+          
+            
+              1
+              −
+              a
+            
+            a
+          
+        
+        (
+        ln
+        ⁡
+        
+          
+            P
+            
+              t
+            
+          
+        
+        −
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        ln
+        ⁡
+        
+          
+            P
+            
+              t
+            
+          
+        
+        ]
+        )
+        +
+        
+          
+            
+              1
+              −
+              a
+            
+            a
+          
+        
+        ⋅
+        
+          
+            d
+            
+              a
+              +
+              d
+            
+          
+        
+        (
+        
+          s
+          
+            t
+          
+        
+        −
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        
+          s
+          
+            t
+          
+        
+        ]
+        )
+        
+        .
+      
+    
+    {\displaystyle \ln {Y_{t}}-\ln {Y_{t}^{*}}={\frac {1-a}{a}}(\ln {P_{t}}-E_{t-1}[\ln {P_{t}}])+{\frac {1-a}{a}}\cdot {\frac {d}{a+d}}(s_{t}-E_{t-1}[s_{t}])\;.}
+  
+
+Introducing 
+  
+    
+      
+        
+          X
+          
+            t
+          
+        
+      
+    
+    {\displaystyle X_{t}}
+  
+ as 
+  
+    
+      
+        
+          X
+          
+            t
+          
+        
+        =
+        
+          Y
+          
+            t
+          
+        
+        
+          P
+          
+            t
+          
+        
+      
+    
+    {\displaystyle X_{t}=Y_{t}P_{t}}
+  
+, we obtain the following formula:
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+          
+        
+        −
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+            
+              ∗
+            
+          
+        
+        =
+        
+          
+            
+              (
+              1
+              −
+              a
+              )
+              d
+            
+            
+              a
+              +
+              d
+            
+          
+        
+        (
+        ln
+        ⁡
+        
+          
+            X
+            
+              t
+            
+          
+        
+        −
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        ln
+        ⁡
+        
+          
+            X
+            
+              t
+            
+          
+        
+        ]
+        )
+        +
+        
+          
+            
+              1
+              −
+              a
+            
+            a
+          
+        
+        ⋅
+        
+          
+            a
+            
+              a
+              +
+              d
+            
+          
+        
+        (
+        ln
+        ⁡
+        
+          
+            P
+            
+              t
+            
+          
+        
+        −
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        [
+        ln
+        ⁡
+        
+          
+            P
+            
+              t
+            
+          
+        
+        ]
+        )
+        
+        
+        .
+      
+    
+    {\displaystyle \ln {Y_{t}}-\ln {Y_{t}^{*}}={\frac {(1-a)d}{a+d}}(\ln {X_{t}}-E_{t-1}[\ln {X_{t}}])+{\frac {1-a}{a}}\cdot {\frac {a}{a+d}}(\ln {P_{t}}-E_{t-1}[\ln {P_{t}}])\;\;.}
+  
+
+Macroeconomic stabilisation policy aims at minimising the variance of 
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+          
+        
+        −
+        ln
+        ⁡
+        
+          
+            Y
+            
+              t
+            
+            
+              ∗
+            
+          
+        
+      
+    
+    {\displaystyle \ln {Y_{t}}-\ln {Y_{t}^{*}}}
+  
+, and this formula suggests that if 
+  
+    
+      
+        
+          
+            a
+            
+              a
+              +
+              d
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\frac {a}{a+d}}=0}
+  
+, that is 
+  
+    
+      
+        d
+        =
+        ∞
+      
+    
+    {\displaystyle d=\infty }
+  
+, then the nominal income targeting eliminates the divergence of real output from its full information equilibrium. It is therefore concluded that nominal income targets are optimal under the condition of perfectly inelastic labour supply.
+
+
+== Central bank discussion ==
+As of 2011, it was claimed that the Bank of England might be targeting nominal income and not inflation (at least in the short term), as inflation was greater than one percent above its target, and income was growing at nearly five percent.
+The Federal Open Market Committee of the US Federal Reserve discussed the possibility of a nominal income target on September 21, 2010.
+The Reserve Bank of New Zealand, the pioneer of inflation targeting, responded directly to a Scott Sumner report on inflation targeting, noting its concerns with GDP figures often being restated and therefore being unsuitable as a consistent monetary policy framework.
+
+
+== Developing countries ==
+Jeffrey Frankel's reasons for a developing country to target its NGDP were:
+
+A developing country needs to follow a credible economic policy with which it can survive.
+The IMF often tells a developing country to target its inflation rate, but inflation targeting makes it difficult for the country to handle an adverse supply shock or a terms-of-trade shock, because monetary expansion increases the prices of imported goods. If a country targets its inflation rate when it suffers negative supply shocks, its real GDP becomes volatile.
+Negative supply shocks are more common in developing countries, because their economies are more vulnerable to natural disasters, social unrest and unrelated policy errors. Terms-of-trade shocks such as oil price increases and commodity export price decreases have greater effects because they represent larger fractions of the economy. India is regularly subject to supply shocks, such as good or bad monsoons.
+Frankel argued countries who target NGDP have more flexibility in dealing with such shocks.
+
+
+== Market monetarism ==
+Market monetarists are skeptical of traditional monetarism's use of monetary aggregates as policy variables and prefer to use forward-looking markets. They advocate a nominal income target as a monetary policy rule because it simultaneously addresses prices and growth.
+Proponents contend that national income targeting would reduce positive and negative fluctuations in economic growth. In recovery from a recession, market monetarists believe concerns over inflation are unjustified and policy should instead focus on returning the economy to a normal growth path. Conversely, in an inflationary environment, it provides a glide path to stability without overreacting. Similarly, such a targeting policy can help the economy accommodate both positive and negative supply shocks, while minimizing collateral damage.
+The leading proponent is Scott Sumner, with his blog "The Money Illusion."  Supporters include Lars Christensen, blogging at "The Market Monetarist", Marcus Nunes at "Historinhas" David Glasner at "Uneasy Money", Josh Hendrickson at "The Everyday Economist",  David Beckworth at "Macro and Other Market Musings" and Bill Woolsey at "Monetary Freedom."
+
+
+== Support ==
+As of fall 2011, the number and influence of economists who supported this approach was growing largely the result of a blog-based campaign by several macroeconomists.
+Larry Kudlow, James Pethokoukis and Tyler Cowen advocate NGDP targeting.
+Australian economist John Quiggin supports nominal income targeting, on the basis that "A system of nominal GDP targeting would maintain or enhance the transparency associated with a system based on stated targets, while restoring the balance missing from a monetary policy based solely on the goal of price stability." Supporters of nominal income targeting often self-identify as market monetarists, although market monetarism encompasses more than nominal income targeting.
+Former CEA chair Christina Romer endorsed a nominal income target in 2011.
+In 1994, economists Robert Hall and Greg Mankiw described a nominal income target as a “reasonably good rule” for the conduct of monetary policy.
+Among policymakers, Vince Cable, ex-United Kingdom Business Secretary, has described himself as "attracted" to nominal income targeting, but declined to elaborate further.
+Charles L. Evans, president of the Federal Reserve Bank of Chicago, said in July 2012 that "nominal income level targeting is an appropriate policy choice" because of what he claimed was its "safeguard against an unreasonable increase in inflation." However, "recognizing the difficult nature of that policy approach," he also suggested a "more modest proposal" of "a conditional approach, whereby the federal funds rate is not increased until the unemployment rate falls below 7 percent, at least, or until inflation rises above 3 percent over the medium term."
+Few academic publications analyze nominal income targeting. One study argues that similar monetary policy performs better than real income targeting during crises based on a theoretical model.
+In June 2015, Lawrence Summers seemed to suggest that NGDP targeting was a more powerful policy tool than a higher inflation target, although he did not endorse the progressive monetary policy. As Summers notes, setting a target which does not depend on inflation adjustments 
+is more reasonable, and NGDP targeting guarantees that when a real growth rate is low real rates become low.
+David Beckworth, a long-time proponent of NGDP targeting, produces a brief each quarter to describe the stance of monetary policy in the United States. In what he calls the "NGDP gap," Beckworth measures the "percentage difference between the neutral level of NGDP and the actual level of NGDP." Beckworth uses this finding to argue "whether monetary policy is expansionary or contractionary."
+
+
+== See also ==
+List of countries by GDP (nominal) per capita
+List of countries by real GDP per capita growth
+Real income
+
+
+== References ==
+
+Bundled references
+
+
+== Further reading ==
+Sumner, Scott (24 July 2013). "A Market-Driven Nominal GDP Targeting Regime". Mercatus Center.
+Bean, Charles (November 2009), "'The Meaning of Internal Balance' Thirty Years On", The Economic Journal, 119 (541), Wiley-Blackwell: F442 – F460, CiteSeerX 10.1.1.152.2160, doi:10.1111/j.1468-0297.2009.02315.x, JSTOR 40271409, S2CID 15578820
+Frankel, Jeffrey (2 May 2013), Nominal GDP Targeting is Left, Right?, Project Syndicate (published May 2, 2013)
+Bean, Charlie (February 27, 2013), Nominal income targets: an old wine in a new bottle (PDF), Bank of England, retrieved August 19, 2017
+
+
+== External links ==
+Beckworth, David (August 16, 2011). "How Would Monetary Stimulus Help". Retrieved October 23, 2011.
+Ponnuru, Ramesh (November 12, 2010). "Hard Money". National Review Online. Retrieved October 23, 2011.
+"Changing target". The Economist. Aug 27, 2011. Retrieved October 23, 2011.
+McCallum, Bennett (October 21, 2011). "Nominal GDP Targeting" (PDF). Shadow Open Market Committee. Retrieved October 26, 2011.
+Romer, Christina D. (October 29, 2011). "Dear Ben: It's Time for Your Volcker Moment". The New York Times. Retrieved October 31, 2011.
+Woolsey, Bill (August 20, 2012). "Methods of Policy Accommodation at the Interest-Rate Lower Bound" (PDF). Archived from the original (PDF) on September 1, 2012. Retrieved September 5, 2012.
+Sumner, Scott (2011). "The Money Illusion". Retrieved June 9, 2011.
+Romer, Christina D. (10 June 2012). "ECONOMIC VIEW; It's the Fed's Time to Step Up - Economic View". The New York Times.

@@ -1,0 +1,92 @@
+Since World War II, according to many economic metrics including job creation, GDP growth, stock market returns, personal income growth, and corporate profits, the United States economy has performed significantly better on average under the administrations of Democratic presidents than Republican presidents. The unemployment rate has risen on average under Republican presidents, while it has fallen on average under Democratic presidents. Budget deficits relative to the size of the economy were lower on average for Democratic presidents. Ten of the eleven U.S. recessions between 1953 and 2020 began under Republican presidents. Of these, the most statistically significant differences are in real GDP growth, unemployment rate change, stock market annual return, and job creation rate.
+The reasons for these differences are a matter of debate, as it is often difficult to determine the precise causes for a given element of the economy performing better or worse at a given time.
+
+
+== Job creation ==
+
+Job creation refers to the number of net jobs added, which is reported monthly by the Bureau of Labor Statistics. In October 2020, Journalist Glenn Kessler of The Washington Post summarized the total job creation by president from Harry S. Truman through Donald Trump as of August 2020. For the 13 presidents beginning with Truman, total job creation was about 70.5 million for the 7 Democratic presidents and 29.1 million for the 6 Republican presidents. The Democratic presidents were in office for a total of 429 months, with 164,000 jobs per month added on average, while the Republicans were in office for 475 months, with a 61,000 jobs added per month average. This monthly average rate was 2.4 times faster under Democratic presidents.
+In 2012, former president Bill Clinton said: "Since 1961 ... the Republicans have held the White House for 28 years, the Democrats for 24 ... In those 52 years, our private economy has produced 66 million private-sector jobs. So what's the jobs score?  Republicans 24 million, Democrats 42 million." Commenting on his statement, The Economist reported that the difference increased by 5 million thereafter under Barack Obama by 2014. From April 1945 to August 2023, of the 115 million net jobs added, 83 million (72%) were under Democrats and 32 million (28%) were under Republicans. Economists Alan Blinder and Mark Watson estimated job growth at 2.6% annually for Democratic presidents, about 2.2 times faster than the 1.2% for Republican presidents, for the 1949–2012 period (Truman's elected term through Obama's first term).
+
+
+=== Job creation by U.S. presidency ===
+
+
+== GDP growth ==
+GDP is a measure of both the economic production and income. The Economist reported in August 2014 that real (inflation-adjusted) GDP growth averaged about 1.8 percentage points faster under Democrats, from Truman through Obama's first term, which ended in January 2013. Blinder and Watson estimated the average Democratic real GDP growth rate at 4.3%, vs. 2.5% for Republicans, from Truman's elected term through Obama's first term, which ended January 2013. This pattern of faster GDP growth under Democratic presidents continued after Blinder and Watson published their study; GDP grew faster both in Obama's second term and in the first two years of Joe Biden's administration than in Trump's term.
+CNN reported in September 2020 that GDP grew 4.1% on average under Democrats, versus 2.5% under Republicans, from 1945 through the second quarter of 2020, a difference of 1.6 percentage points. In February 2021, The New York Times reported: "Since 1933, the economy has grown at an annual average rate of 4.6 percent under Democratic presidents and 2.4 percent under Republicans ... The average income of Americans would be more than double its current level if the economy had somehow grown at the Democratic rate for all of the past nine decades." The Washington Post reported that average GDP growth under Trump for his first three years in office was 2.5%; when the COVID-19 pandemic hit in 2020, GDP for his fourth year in office fell 6.5%.
+
+
+== Unemployment rates ==
+Unemployment rates account for people of working age that do not have a job. Unemployment rates are important due to the differences in policies taken from each political party. However, Job creation and unemployment are affected by many factors such as economic conditions, global competition, education, automation, and demographics, and global crisis. Studies published in the American Economic Review by Blinder and Watson have analyzed the factors which determine differences between unemployment rates during Democratic and Republican Leadership. They found that the unemployment rate fell under Democratic presidents by an average of 0.8 percentage points, while it increased under Republican presidents by an average of 1.1 percentage points. They commented: "The Democratic edge stems mainly from more benign oil shocks, superior total factor productivity (TFP) performance, a more favorable international environment, and perhaps more optimistic consumer expectations about the near-term future." Unemployment is largely influenced by the economic policies from the Federal Reserve, which has as a main objective to balance the trade off between maintaining low and stable inflation vs maximizing employment.
+
+
+=== Historical unemployment rate statistics ===
+
+* The COVID-19 pandemic and the Great Resignation had a dramatic influence in statistics presented, including a sharp increase in unemployment rate at the time of changes from Trump to Biden.
+
+
+== Income growth and inequality ==
+Analysis conducted by Vanderbilt University political science professor Larry Bartels in 2004 and 2015 found income growth is faster and more equal under Democratic presidents. From 1982 through 2013, he found real incomes increased in the 20th and 40th percentiles of incomes under Democrats, while they fell under Republicans. Real incomes grew across all higher percentiles at a greater rate under Democrats, even during the Great Recession and its recovery in Obama's first term. Bartels calculated in 2008 that the real value of the minimum wage over the preceding sixty years had increased 16 cents per year under Democratic presidents but declined by 6 cents per year under Republican presidents.
+
+
+== Inflation ==
+Blinder and Watson found that since 1945 the average inflation rate was higher under Republican presidents than under Democrats, although inflation tended to rise under Democrats but fall under Republicans.
+
+
+== Federal budget deficits ==
+Blinder and Watson reported that budget deficits tended to be smaller under Democrats at 2.1% potential GDP versus 2.8% potential GDP for Republicans, a difference of about 0.7 of a percentage point. They wrote that higher budget deficits should theoretically have boosted the economy more for Republicans, and therefore cannot explain the greater GDP growth under Democrats. Since 1981, federal budget deficits have increased under Republican presidents Ronald Reagan, both Bushes, and  Trump, while deficits have declined under Democratic presidents Clinton and Obama. The economy ran surpluses during Clinton's last four fiscal years, the first surpluses since 1969. The deficit was projected to decline sharply in Biden's first fiscal year.
+
+
+== Stock market returns ==
+Stock market returns are higher under Democratic presidents. In September 2020, CNN reported: "Since 1945, the S&P 500 has averaged an annual gain of 11.2% during years when Democrats controlled the White House, according to CFRA Research. That's well ahead of the 6.9% average gain under Republicans." Analysis conducted by S&P Capital IQ in 2016 found similar results since 1901. Blinder and Watson estimated that the S&P 500 returned 8.4% annually on average under Democrats versus 2.7% under Republicans, a difference of 5.7% percentage points. This computation used the average value in last year of the president's term, minus the average value in last year of previous term. In November 2020, The Washington Post cited a study by CFRA Research that the stock market (as measured by the S&P 500) averaged the following annual rates of return, under different control scenarios, from 1945 to September 2020:
+
+Democratic president with split Congress: 13.6%
+Democratic president with Republican Congress: 13.0%
+Republican president with Republican Congress: 12.9%
+Democratic president with Democratic Congress: 9.8%
+Republican president with split Congress: 5.8%
+Republican president with Democratic Congress: 4.9%
+Bloomberg News reported in November 2021 that Democratic presidents held seven of the top ten positions of S&P 500 returns during the first year of a presidential term, measured from their election days. Biden ranked first with a 37.4% return, with the next five highest positions also held by Democrats. The Democratic outperformance is even more striking if data from the Great Depression and World War II are included. From 1927 through 2016, the average excess stock market return (that is, the difference between the stock market return and the return on a risk-free investment) was 10.7% per year under Democratic presidents and -0.2% per year under Republican presidents.
+
+
+== Corporate profits ==
+Analysis conducted by CFRA Research in 2020 found that since 1945 corporate earnings per share, a key measure of corporate profitability, grew 12.8% on average under Democratic presidents versus 1.8% for Republicans.
+
+
+== Recessions ==
+
+CNN reported in October 2020 that 10 of the last 11 recessions started under Republican presidents, and added: "Every Republican president since Benjamin Harrison, who served from 1889 to 1893, had a recession start in their first term in office." The National Bureau of Economic Research reports the start date of recessions, and the following list includes the president in office at that time and their party:
+
+February 2020 (Trump, Republican; House, Democratic; Senate, Republican)
+December 2007 (Bush 43, Republican; House, Democratic; Senate, Democratic)
+March 2001 (Bush 43, Republican; House, Republican; Senate, Republican)
+July 1990 (Bush 41, Republican; House, Democratic; Senate, Democratic)
+July 1981 (Reagan, Republican; House, Democratic; Senate, Democratic)
+January 1980 (Carter, Democratic; House, Democratic; Senate, Democratic)
+November 1973 (Nixon, Republican; House, Democratic; Senate, Democratic)
+December 1969 (Nixon, Republican; House, Democratic; Senate, Democratic)
+April 1960 (Eisenhower, Republican; House, Democratic; Senate, Democratic)
+August 1957 (Eisenhower, Republican; House, Democratic; Senate, Democratic)
+July 1953 (Eisenhower, Republican; House, Republican; Senate, Republican)
+November 1948 (Truman, Democratic; House, Republican; Senate, Republican)
+Blinder and Watson estimated that the economy was in recession for 49 quarters from 1949–2013; 8 of these quarters were under Democrats, with 41 under Republicans. The 2020 recession brings that to 50 quarters total in recession, 42 under Republicans (84%) and 8 under Democrats (16%).
+
+
+== Reasons for over-performances by Democratic presidents ==
+Blinder and Watson studied the comparative economic performance from Truman's elected term through Obama's first term in 2012. They excluded certain causes and identified some possible causes. Excluded as causes were age and experience of the president, which political party controlled Congress, and quality of economy inherited (as Democrats tended to take over when times were more difficult). Furthermore, fiscal and monetary policy did not seem to be possible causes. Changes in tax policy had little impact; for example, Clinton raised taxes while Reagan cut them but both had strong growth. Interest rates had typically risen under Democrats and fallen under Republicans, which theoretically should have favored Republicans. Democrats did benefit from lower oil prices, larger increases in productivity, and better global conditions.
+Blinder and Watson concluded: "Rather, it appears that the Democratic edge stems mainly from more benign oil shocks, superior total factor productivity (TFP) performance, a more favorable international environment, and perhaps more optimistic consumer expectations about the near-term future."
+
+
+== Commentary ==
+During a March 2004 interview, Trump stated: "It just seems that the economy does better under the Democrats than the Republicans." The Joint Economic Committee Democrats summarized and expanded the Blinder and Watson analysis in a June 2016 report, writing: "Claims that Republicans are better at managing the economy are simply not true. While the reasons are neither fully understood nor completely attributable to policy choices, data show that the economy has performed much better during Democratic administrations. Economic growth, job creation and industrial production have all been stronger."
+Journalist David Leonhardt wrote in The New York Times that economists he interviewed were not certain of the cause. One possibility for the consistent outperformance by Democratic presidents was that "Democrats have been more willing to heed economic and historical lessons about what policies actually strengthen the economy, while Republicans have often clung to theories that they want to believe — like the supposedly magical power of tax cuts and deregulation. Democrats, in short, have been more pragmatic." He wrote that Democratic presidents championing the ideas of John Maynard Keynes have taken stronger fiscal action to address crises.
+
+
+== Statistics ==
+The following table compares selected results for the Democratic and Republican presidents, using the Blinder and Watson data (typically Truman's elected term through Obama's first term). The abbreviation pp means percentage points. The p-value is the probability that the observed difference would occur if it were due to chance. P-values typically considered statistically significant are those equal to or less than 0.1, 0.05, or 0.01, with each representing a different level of significance and lower values being more significant. 
+
+
+== References ==
+
+
+== External links ==

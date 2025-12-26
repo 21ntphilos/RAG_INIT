@@ -1,0 +1,79 @@
+Inflation rate in India was 0.71% as of November 2025, as per the Indian Ministry of Statistics and Programme Implementation. This represents a slight increase from the record low of 0.25% observed in October 2025. CPI for the months of July, August and September 2025 were 1.55, 2.50 and 2.90 respectively.
+Inflation rates in India are usually quoted as changes in the Consumer Price Index (CPI), for all commodities.
+Many developing countries use changes in the consumer price index (CPI) as their central measure of inflation. In India, CPI (combined) was declared as the new standard for measuring inflation in April 2014. CPI numbers are typically measured monthly, and with a significant lag, making them unsuitable for policy use. India uses changes in the CPI to measure its rate of inflation.
+The WPI measures the price of a representative basket of wholesale goods. In India, this basket is composed of three groups: Primary Articles (22.62% of total weight), Fuel and Power (13.15%) and Manufactured Products (64.23%). Food Articles from the Primary Articles Group account for 15.26% of the total weight. The most important components of the Manufactured Products Group are Food products (19.12%); Chemicals and Chemical products (12%); Basic Metals, Alloys and Metal Products (10.8%); Machinery and Machine Tools (8.9%); Textiles (7.3%) and Transport, Equipment and Parts (5.2%).
+WPI numbers were typically measured weekly by the Ministry of Commerce and Industry. This makes it more timely than the lagging and infrequent CPI statistic. However, since 2009 it has been measured monthly instead of weekly.
+
+
+== Issues ==
+The challenges in a developing economy are many, especially in the context of monetary policy, the Central Bank, and the phenomena of inflation and price stability. There has been a universal argument recently that monetary policy is a key element in depicting and controlling inflation. The Central Bank works on the objective to control and have a stable price for commodities. A good environment of price stability creates saving mobilisation and sustained economic growth.
+The former Governor of RBI C. Rangarajan points out that there is a long-term trade-off between output and inflation. He adds that short-term trade-off happens to only introduce uncertainty about the price level in future. There is an agreement that the central banks have aimed to introduce the target of price stability while an argument supports it for what that means in practice.
+
+
+=== Optimal inflation rate ===
+It arises as the basic theme in deciding an adequate monetary policy. There are two debatable proportions for an effective inflation: whether it should be in the range of 1-3 per cent as the inflation rate that persists in the industrialized economy or should it be in the range of 6-7 per cent. While deciding on the elaborate inflation rate certain problems occur regarding its measurement.
+The measurement bias has often calculated an inflation rate that is comparatively more than actual. Secondly, there often arises a problem when the quality improvements in the product need to be captured out, hence it affects the price index. The consumer preference for cheaper goods affects the consumption basket at costs, for the increased expenditure on the cheaper goods takes time for the increased weight and measuring inflation. The Boskin Commission has measured 1.1 per cent of the increased inflation in USA per annum. The commission points out that comprehensive studies on inflation in developed countries appear to be fairly low.
+
+
+=== Money supply and inflation ===
+Quantitative easing by the central banks with the effect of an increased money supply in an economy often helps to increase or moderate inflationary targets. There is a puzzle formation between low-rate inflation and a high growth of money supply.
+When the current rate of inflation is low, a high worth of money supply warrants the tightening of liquidity and an increased interest rate for a moderate aggregate demand and the avoidance of any potential problems. Further, in case of a low output a tightened monetary policy would affect the production in a much more severe manner.
+Supply shocks are known to play a dominant role in regard to monetary policy. The bumper harvest in 1998-99 with a buffer yield in wheat, sugarcane, and pulses led to an early supply condition further driving their prices from what they were in the previous year. The increased import competition since 1991 with the trade liberalisation in place has widely contributed to the reduced manufacturing competition with cheaper agricultural raw materials and the fabric industry. These cost-saving-driven technologies have often helped to drive a low inflation rate.
+The normal growth cycles accompanied with international price pressures have several times been characterized by domestic uncertainties.
+
+
+=== Global trade ===
+Inflation in India generally occurs as a consequence of global traded commodities and the several efforts made by the Reserve Bank of India (RBI) to weaken the rupee against the dollar. This was done after the Pokhran Blasts in 1998. This has been regarded as the root cause of the inflation crisis rather than domestic inflation. According to some experts, the policy of the RBI to absorb all dollars coming into the Indian economy contributes to the appreciation of the rupee. When the U.S. dollar depreciated by a margin of 30%, the RBI made a massive injection of dollars into the economy making it highly liquid; this further triggered off inflation in non-traded goods. The RBI picture clearly portrays subsidising exports with a weak dollar-exchange rate. Critics argue that these account for dangerous inflationary policies being followed by the central bank of the country. Further, on account of cheap products being imported in the country which are made on high technological and capital intensive techniques, domestic raw materials in the global market either increase in price or are forced to sell at a cheaper price, hence incurring heavy losses.
+
+
+== Factors ==
+There are several factors which help to determine the inflationary impact in the country and further help in making a comparative analysis of the policies for the same. The major determinant of the inflation in regard to the employment generation and growth is depicted by the Phillips curve.
+[Image of Phillips curve]
+
+
+=== Demand factors ===
+It occurs in a situation when the aggregate demand in the economy has exceeded the aggregate supply. It could further be described as a situation where too much money chases too few goods. A country has a capacity of producing just 5,500 units of a commodity but the actual demand in the country is 7,000 units. Hence, as a result of which due to scarcity in supply the prices of the commodity rises. This has generally been seen in India in context with the agrarian society where due to droughts and floods or inadequate methods for the storage of grains leads to lesser or deteriorated output hence increasing the prices for the commodities as the demand remains the same.
+
+
+=== Supply factors ===
+The supply side inflation is a key ingredient for the rising inflation in India. The agricultural scarcity or the damage in transit creates a scarcity causing high inflationary pressures. Similarly, the high cost of labor eventually increases the production cost and leads to a high price for the commodity. The energy issues regarding the cost of production often increases the value of the final output produced. These supply driven factors basically have a fiscal tool for regulation and moderation. Further, the global level impacts of price rise often impacts inflation from the supply side of the economy.
+Consensus on the prime reason for the sticky and stubbornly high Consumer Price Index, that is retail inflation of India, is due to supply side constraints; and still where interest rate remains the only tool with the Reserve Bank of India. Higher inflation rate also constraints India's manufacturing environment.
+
+
+=== Domestic factors ===
+Developing economies like India generally have a lesser developed financial market which creates a weak bonding between the interest rates and the aggregate demand. This accounts for the real money gap that could be determined as the potential determinant for the price rise and inflation in India. There is a gap in India for both the output and the real money gap. The supply of money grows rapidly while the supply of goods takes due time which causes increased inflation. Similarly, hoarding has been a problem of major concern in India where onion prices have shot high. There are several other stances for the gold and silver commodities and their price hike.
+
+
+=== External factors ===
+The exchange rate determination is an important component for the inflationary pressures that arises in India. The liberal economic perspective in India affects the domestic markets. As the prices in United States rises it impacts India where the commodities are now imported at a higher price impacting the price rise. Hence, the nominal exchange rate and the import inflation are measures that depict the competitiveness and challenges for the economy.
+
+
+=== Value ===
+The annual inflation rate in India was recorded at 6.95% in 2023. Historically, from 1960 until 2023, the annual inflation rate in India averaged 7.37% reaching an all-time high of 28.60% in 1974 and a record low of -7.63% in 1976.
+The inflation rate for Primary Articles was at 9.8% in 2012. This breaks down into a rate 7.3% for Food, 9.6% for Non-Food Agriculturals, and 26.6% for Mining Products. The inflation rate for Fuel and Power was at 14.0%. Finally, the inflation rate for Manufactured Articles was at 7.3% in 2012.
+
+
+== Indices ==
+
+
+=== 17th century ===
+Given below is a comparison of GDP Deflator, average consumer price inflation, cost (for filing tax returns) inflation, gold, silver and house inflation indices in India (collated from IMF, CBDT, RBI and multiple sources). GDP Deflator is a composite index of time series constructed independently by Angus Maddison and government departments (since 1950). Price index is useful in gauging income and profit of sellers, cost index is useful in gauging expenditure and loss of buyers while the gold index helps measure wealth. The gold index is in vogue for three centuries.
+
+
+=== 18th century ===
+
+
+=== 19th century ===
+
+
+=== 20th century ===
+
+
+=== 21st century ===
+
+
+== References ==
+
+
+== External links ==
+India Inflation Rate Tables, Charts, Calculators CPI-IW based inflation rate tables, charts, calculators, comparison with other countries and periods.

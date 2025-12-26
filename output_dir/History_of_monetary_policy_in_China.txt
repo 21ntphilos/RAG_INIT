@@ -1,0 +1,62 @@
+The monetary policy of China aims to keep the value of the Renminbi, the official currency of the People's Republic of China, stable and contribute to economic growth. Monetary policy concerns the actions of a central bank or other regulatory authorities adopt to manage and regulate currency and credit in order to achieve certain macroeconomic goals.
+
+
+== Policy framework of the People's Bank of China ==
+China’s central bank, the People’s Bank of China (PBC or PBoC), was founded in 1948. Its monetary policy framework has changed significantly over the years. Initially, the PBC used central credit planning to allocate long-term credit. From 1979 to 1997, it shifted to direct credit control, selecting bank credit as a key target. In 1995, new laws defined the PBC’s role, including making monetary policy, managing financial risks, and ensuring financial stability. In 1998, the PBC removed direct credit controls, moving to indirect control of money and credit.
+The PBC’s main intermediate targets are the broad money supply (M2) and total social financing (TSF). M2 and bank credit became key targets after 1998, while TSF was added in 2012 due to decreasing correlation with M2 and economic activity. Since 2018, specific M2 growth targets have not been set, but the PBC emphasizes that M2 and TSF growth should align with nominal economic growth. The exchange rate also serves as a policy objective and intermediate target. Although the renminbi exchange rate is said to be market-driven, the authorities manage it through various measures, especially during rapid currency movements.
+
+
+=== Policy objectives ===
+Pan Gongsheng, deputy governor of the PBoC, stated that the internationalization of the renminbi (currency of China) is a major highlight of China's financial reform in the past decade. They have set new objectives on which to focus their new policy: first, to adhere to the "priority in national currency" and expand the cross-border use of renminbi; second constantly promote the convertibility of the capital account in RMB; third, consolidate the market base for the reform of the exchange rate commodification; finally, improve the macro prudential management framework.
+The monetary policy of the PBoC has been among the most advanced in terms of green finance according to ratings. The PBoC used both window guidance as well as favouring green bonds markets in its open market operations to encourage green finance in China.
+
+
+== Monetary policy tools ==
+
+
+=== Open market operations ===
+It refers to the central bank ’s policy of buying and selling government bonds to control the money supply and interest rate in the financial market .
+
+
+=== Deposit reserve policy ===
+It means that the central bank imposes a deposit reserve ratio on deposits of commercial banks, etc.
+
+
+=== Central Bank Loans ===
+It refers to the central bank to use monetary base to specialized banks, other financial institutions, in a variety of ways of financial intermediation general term.
+
+
+=== Interest rate policy ===
+Central bank ’s policies and measures to control and regulate market interest rates in order to influence the supply and demand of social funds .
+
+
+=== Exchange rate policy ===
+Lifting of a government using the national currency exchange rate to control the feed exports and capital flows in order to reach the international balance of payments purposes.
+
+
+=== Permanent loan facilities ===
+It is a Short-term Liquidity Operation, it is used when there is a temporary fluctuation in the liquidity of the banking system.
+
+
+=== 2010s policy tools ===
+As well as heralding a market-based approach, the system and its range of tools offers the central bank more autonomy to set policy and marks a significant change for monetary policy making in China.
+Starting in 2016, the PBoC has used a market-based approach involving closer management of liquidity in the banking system and an expanded range of tools, such as repos (or reverse repurchase agreements) and lending facilities, to promote better capital allocation and guide market interest rates to more closely match its objectives. The new tools allow the central bank to be more proactive and targeted in how it goes about handling monetary policy.
+During the era of low to zero interest-rates, the PBoC maintained moderate interest rates unlike most other major central banks. According to an analyst cited by CNBC, this stabilized the economy and slowed down the rise of property values. Instead the PBoC utilizes targeted tools to stimulate specific areas of the economy, an approach that central banks elsewhere started to follow.
+The renminbi currency value is also heavily influenced by other government policy instruments such as capital controls and trade policy, for instance restrictions on the import of gold paid in dollars.
+
+
+== Interest rates ==
+Previously, interest rates set by the bank were always divisible by nine, instead of by 25 as in the rest of the world. However, since the central bank began to increase rates by 0.25 percentage points on October 19, 2010, this is no longer the case.
+PBC latest interest rate changes:
+
+
+== Reserve requirement ratio ==
+
+PBC latest reserve requirement ratio (RRR) changes:
+
+
+== See also ==
+History of monetary policy in China
+
+
+== References ==

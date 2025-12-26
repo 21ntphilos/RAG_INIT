@@ -1,0 +1,155 @@
+Monetary reform refers to proposals to change a country's monetary system, including how money is created, regulated, and distributed. Such reforms seek to address perceived problems with current monetary schemes, like financial instability, wealth inequality, or inflation. Monetary reform movements grow during economic crises, proposing alternatives to prevailing systems.
+Reforms range widely from a return to commodity-backed currencies like the gold standard to more radical changes like full reserve banking or government-issued debt-free money. Some reforms seek technical adjustments to existing systems, while others propose to fundamentally restructure money's economic functions.
+
+
+== Historical context ==
+Monetary reform movements gain prominence during periods of economic instability. The Great Depression sparked reform proposals including the Chicago plan. Similarly, the 2008 financial crisis renewed interest in alternatives like sovereign money systems, while the COVID-19 pandemic further increased debates about monetary system design.
+Monetary system evolution's major transitions included from the gold standard to the Bretton Woods system to current fiat money. Each transition has generated debate about the optimal monetary arrangement for economic stability and growth.
+
+
+== Types of monetary reform ==
+
+
+=== Gold standard ===
+
+The gold standard linked currency values to gold reserves. Under this monetary system, paper money was convertible to fixed amounts of gold, anchoring currency values.
+The classical gold standard functioned internationally from the 1870s to World War I, with a modified version under the Bretton Woods system.
+Proponents' arguments include that currencies backed by gold had more stability than fiat money. They argue required gold reserves limited financing expenditures through money creation. Austrian school economists have advocated returning to gold-backed currencies to prevent inflation.
+Critics' arguments center on monetary policy constraints during economic downturns. Mainstream economists note the gold standard may have prolonged the Great Depression by preventing  money supply expansion to fight deflation. Countries that abandoned the gold standard earlier in the Great Depression recovered more quickly.
+
+
+=== Full reserve banking ===
+
+Full reserve banking proposals would require banks to hold 100% reserves for customer deposits, eliminating fractional-reserve banking currently used worldwide. In a full reserve system, banks would operate as intermediaries not creators of credit.
+Theoretical foundation:
+The Chicago plan, designed by University of Chicago economists, spurred academic attention. The plan would separate monetary and credit functions, transferring money creation to government control.
+Proponents' arguments include the elimination of bank runs, as banks would have reserves to meet all withdrawals. They argue it would reduce systemic risk and provide governments greater control over the money supply.
+Critics' arguments focus on potential economic disruption and reduced credit access. They suggest full reserve banking could drive borrowers to the shadow banking system. Mainstream economists express concern about reduced capital allocation efficiency, as well as transition costs and potential unintended consequences.
+
+
+=== Sovereign money ===
+
+Sovereign money systems propose transferring money creation from commercial banks to government institutions like central banks. Under the current system, commercial banks create money through loans; sovereign money would make money creation a government monopoly.
+Theoretical basis: Proponents argue money creation should be a public function rather than a private one. They propose that government created money could be spent into circulation for public purposes instead of private bank profit.
+Policy examples: Switzerland held the 2018 Swiss sovereign-money initiative, which did not pass. Iceland considered a similar proposal following the 2008–2011 Icelandic financial crisis. These real-world applications provide insight into political and implementation challenges.
+Economic analysis: Supporters argue sovereign money could provide better control over they money supply and reduce debt burden. Critics claim asset bubbles may still be possible. The Swiss National Bank opposed the initiative claiming lack of expertise and resources.
+
+
+=== Social credit ===
+
+Social credit theory, developed by C. H. Douglas starting in the 1920s, proposes that governments issue money directly to citizens as a social dividend. This would supplement wages and fill the deficit of purchasing power to a "just" price of goods and services. Maurice Reckitt said the community would issue its own credit, enabling goods to be sold below cost.
+The Social Credit Party of Canada gained power in Alberta in 1935, governing for decades. Mainstream economists did not accept social credit, claiming it was inflationary.
+Related proposals advocate for the government issuing interest-free money for infrastructure. Proponents seek to prevent inflation by withdrawing the credit from circulation as the loan is repaid. Historical examples of government-issued interest-free money include American Revolution continentals and American Civil War greenbacks.
+
+
+=== Alternative currency systems ===
+
+
+==== Demurrage currency ====
+
+Demurrage currency is designed to lose value over time, encouraging circulation not hoarding. Economist Silvio Gesell sought to boost velocity, requiring periodic stamps to keep the money valid.
+Historical examples include the Wära in Germany. It had led to modest economic prosperity before it was forbidden by the finance ministry.
+Despite their success, most demurrage currencies were banned by central banks for violating national monopolies on currency. Contemporary versions include complementary currency and negative interest rate proposals.
+
+
+==== Local currencies ====
+
+Local currencies and local exchange trading system (LETS) create community-based alternatives to national currencies. These systems aim to improve the economy in local communities and can include features like demurrage. Examples include Ithaca Hours in New York and time banks.
+
+
+==== Free banking ====
+Free banking proposals would allow private bank issued currencies, eliminating central bank restrictions on money creation. Proponents argue competition creates pressure for stable currencies, while critics raise coordination problems.
+
+
+== Contemporary catalysts for reform ==
+
+
+=== COVID and monetary policy ===
+The COVID-19 pandemic prompted unprecedented monetary policy responses, including massive quantitative easing (QE) programs by major central banks. Rising inflation in 2022 led most central banks to switch to quantitative tightening.
+The inflation surge reignited debates about:
+
+The effectiveness and side effects of QE programs
+Central bank independence and political pressures
+The need for alternative monetary frameworks
+The role of fiscal-monetary coordination
+
+
+== Arguments for reform ==
+
+
+=== Financial stability concerns ===
+Monetary reform advocates often cite financial instability to justify systemic change. They argue fractional reserve creates a mismatch between liquid deposits and illiquid loans. This can lead to bank runs and government interventions during crises.
+Procyclical bank lending expands credit during booms, contributing to asset bubbles, followed by a drop in credit during busts, amplifying economic downturns. The money supply is created by bank lending, and central banks have limited ability to stop booms with higher capital requirements.
+
+
+=== Debt sustainability issues ===
+Since most money is created through commercial bank lending, the total debt in the economy exceeds the money supply, challenging aggregate debt repayment. Foreign currency risk has led to mounting debt for developing countries and handing over national assets.
+This suggests constant economic growth is necessary, with unsustainable resource consumption and environmental degradation. Labor-saving technologies are generally used to increase income and consumption not reduce hours of work.
+
+
+=== Wealth distribution effects ===
+Monetary reform advocates argue money creation through lending benefits those with access to credit. while costing those holding cash. Asset price inflation benefits owners while growing inequality. Quantitative easing benefits asset holders, while those without benefit only if investment or consumption increases employment.
+Critics claim the privilege to create currency and charge interest enable banks to thrive at everyone else's expense. Wright Patman objected to governments paying interest for money created "out of nothing", making economic activity dependent on private bank self-interest.
+
+
+== Arguments against reform ==
+
+
+=== Economic disruption risks ===
+Economists defending current systems claim transitioning to an untested financial system could create extreme uncertainty. They say the current system allows consumers to afford the necessities of modern life. Financial instability is a risk for countries attempting unilateral reforms.
+The finance sector would be weakened because its profit is reduced. Critics claim a sovereign money system would stimulate shadow banking and alternative means of payment.
+In the traditional banking system, the central bank controls the interest rate while the money supply is determined by the market. In a sovereign money system, the central bank controls the money supply while the market controls the interest rate. In the traditional system, the need for investments determines the amount of credit that is issued. In a sovereign money system, the amount of saving determines the investments. This change of influences will generate a new and different system with its own dynamics and possible instabilities. The interest rate may fluctuate as well as the liquidity. It is not certain that the market will find an equilibrium where the liquidity is sufficient for the needs of the real economy and full employment.
+
+
+=== Monetary policy effectiveness ===
+Status quo advocates contend reforms would impair central bank ability to maintain price stability. Separating money creation from lending would lead to a lack of experience estimating monetary expansion effects on prices.
+Critics doubt whether the central bank's tools for money supply are sufficient. The central bank may have to provide credit to commercial banks and accept the accompanying risk.
+
+
+=== Political economy concerns ===
+Critics claim direct distribution of newly created money risks high inflation if significant financing needs generate political pressure. They argue that central bank independence helps prevent inflation.
+They worry about restrictions on economic freedom.
+
+
+== International perspectives ==
+
+
+=== Developing country experiences ===
+Michael Hudson criticized the World Bank and International Monetary Fund for reinforcing debt dependency.
+Developing countries' external debt can harm local culture and the environment. Countries have experimented with alternative monetary rules, often related to external debt and balance of payments. These experiences can provide case studies for understanding monetary reform.
+Countries such as Ecuador and Zimbabwe used currency substitution, while others have used currency boards with loss of flexibility.
+
+
+=== Global monetary reform proposals ===
+Proposed reforms to the international monetary system include expansion of special drawing rights. Proposals seek to address imbalances due to US dollar centrality. Robert Mundell proposed reforming the international monetary system with a world currency. James Robertson called for international financial system reform with green economics.
+The Economic and Monetary Union of the European Union was a significant innovation in international monetary reform, demonstrating the possibilities and challenges in economic policy coordination across member states.
+
+
+== Contemporary developments ==
+
+
+=== Central Bank Digital Currencies (CBDCs) ===
+CBDCs represent a significant contemporary development in monetary reform. The emergence of central bank digital currency (CBDC) has created new possibilities for monetary reform. CBDCs could enhance monetary policy effectiveness and allow more control over distribution.
+134 countries with 98% of world GDP are evaluating a national digital currency. The Bahamas, Jamaica, and Nigeria have launched CBDCs. CBDCs could provide government-issued digital currency directly to the public.
+The design choices for CBDCs vary significantly, including decisions about privacy, programmability, offline functionality, and intermediation models. These choices have profound implications for monetary policy effectiveness, financial stability, and individual privacy.
+
+
+=== Post-crisis reform efforts ===
+Following the 2008 financial crisis, reforms such as Basel III, increased capital requirements for banks. While some economists argue they have reduced systemic risk, others call for more fundamental reform to address structural problems.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+The Ethics of Money Production, Jörg Guido Hülsmann (2008), Ludwig von Mises Institute
+"100% Money and the Public Debt", Irving Fisher (public domain)
+
+
+== External links ==

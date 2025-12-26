@@ -1,0 +1,370 @@
+This page lists details of the consumer price index by country.
+
+
+== By country ==
+
+
+=== Belgium ===
+The Belgian Consumer Price Index is a list of prices of goods and services, kept by the Belgian Federal Public Service Economy. The Index is updated on a monthly basis, and reflects the evolution in the cost of living. The Belgian system tracks two indices: the general Consumer Price Index and the Health Index. The latter uses the same basket of goods/products as the former, with the exception of products which could be detrimental to health, such as cigarettes and petrol.
+Many wages, pensions, property rental costs, insurance premiums, unemployment benefits, health insurance payments, etc. are by law tied to the Health Index. Some wages and benefits are adapted to the Index after a rise of the Index above a certain threshold. Other adjustments, like house rent or insurance premiums, are carried through on a yearly basis. Thus, the income of the average Belgian closely tracks overall inflation - which makes it different from the rest of the eurozone.
+
+Government cabinets can decide to "jump" the index, i.e. knowingly skip the automatic adaptation of all wages and benefits tied to the index. This is a political decision that keeps these wages and benefits on the then-current level, in order to reduce the government's budget deficit. The Wilfried Martens government in the 1980s did three such "index jumps", and the Michel I Government did one as well in 2015.
+
+
+=== Canada ===
+Canada's CPI is published by Statistics Canada. The index is calculated and published monthly. It is used to escalate a given dollar value, over time, to preserve the purchasing power of that value. Thus, the CPI is widely used to adjust contracted payments, such as wages, rents, leases and child or spousal support allowances. Private and public pension programs (Old Age Security and the Canada Pension Plan), personal income tax deductions, and some government social payments are also escalated using the CPI. It is also used to set and monitor the implementation of economic policy. The Bank of Canada, for example, uses the CPI, and special aggregates of the CPI, to monitor its monetary policies.
+
+
+=== Eurozone ===
+
+The European Central Bank publishes the Harmonised Index of Consumer Prices (HICP). It is a weighted average of price indices of member states. It is a seasonally adjusted chained index in which goods are split by final consumption. It is a consumer price index which is compiled according to a methodology that has been harmonised across EU countries. The euro area HICP is a weighted average of price indices of member states who have adopted the euro. The primary goal of the ECB is to maintain price stability, defined as keeping the year on year increase HICP target on 2% over the medium term. In order to do that, the ECB can control the short-term interest rate through Eonia, the European overnight index average, which affects market expectations. The HICP is also used to assess the convergence criteria on inflation which countries must fulfill in order to adopt the euro.
+
+
+=== Finland ===
+The index (kuluttajahintaindeksi) is calculated and published by Statistics Finland Finnish food prices have been increasing almost fastest in European Union. In the current year, consumer prices for food are forecast to increase by 4.5% on average. Most shopping centers have expensive underground car parking places that are often in practice free of charge. The high construction prices are included in the price of food and goods. The two biggest food retailers Kesko and S-Market (HOK Elanto) cover over 80% of the markets. Most often the town planning has ignored to plan new independent small shops. Satu Hassi (Green) has made a questionary for the EU Commission of the retail industry.
+
+
+=== Germany ===
+The index is calculated and published by the Federal Statistical Office of Germany (Statistisches Bundesamt), yearly and monthly results are available from 1991 onwards.
+
+
+=== Greece ===
+The index is calculated and published by the Hellenic Statistical Authority, by using a variation of the Laspeures index. Until 2000, the index used to take into consideration only urban areas.
+
+  
+    
+      
+        
+          R
+          
+            h
+          
+          
+            t
+            ,
+            T
+          
+        
+        =
+        
+          R
+          
+            h
+          
+          
+            12
+            ,
+            T
+            −
+            1
+          
+        
+        
+          [
+          
+            
+              
+                
+                  ∑
+                  
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  W
+                  
+                    i
+                  
+                  
+                    T
+                  
+                
+                
+                  
+                    
+                      R
+                      
+                        h
+                        ,
+                        i
+                      
+                      
+                        t
+                        ,
+                        T
+                      
+                    
+                    
+                      R
+                      
+                        h
+                        ,
+                        i
+                      
+                      
+                        12
+                        ,
+                        T
+                        −
+                        1
+                      
+                    
+                  
+                
+              
+              
+                
+                  ∑
+                  
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  W
+                  
+                    i
+                  
+                  
+                    T
+                  
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle R_{h}^{t,T}=R_{h}^{12,T-1}\left[{\frac {\sum _{1}^{n}W_{i}^{T}{\frac {R_{h,i}^{t,T}}{R_{h,i}^{12,T-1}}}}{\sum _{1}^{n}W_{i}^{T}}}\right]}
+  
+
+where:
+
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+: the Consumer Price Index.
+
+  
+    
+      
+        
+          R
+          
+            h
+          
+          
+            t
+            ,
+            T
+          
+        
+      
+    
+    {\displaystyle R_{h}^{t,T}}
+  
+: the CPI during this year, rounded at 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ decimal places.
+
+  
+    
+      
+        
+          R
+          
+            h
+          
+          
+            12
+            ,
+            T
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle R_{h}^{12,T-1}}
+  
+: the CPI in December (
+  
+    
+      
+        t
+        =
+        12
+      
+    
+    {\displaystyle t=12}
+  
+) of the previous year (
+  
+    
+      
+        T
+        −
+        1
+      
+    
+    {\displaystyle T-1}
+  
+), rounded at 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ decimal places.
+
+  
+    
+      
+        
+          W
+          
+            i
+          
+          
+            T
+          
+        
+      
+    
+    {\displaystyle W_{i}^{T}}
+  
+: the weighting factor.
+
+  
+    
+      
+        
+          R
+          
+            h
+            ,
+            i
+          
+          
+            t
+            ,
+            T
+          
+        
+      
+    
+    {\displaystyle R_{h,i}^{t,T}}
+  
+: the individual index of the 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+-th product.
+
+  
+    
+      
+        
+          R
+          
+            h
+            ,
+            i
+          
+          
+            12
+            ,
+            T
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle R_{h,i}^{12,T-1}}
+  
+: the individual index of the 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+-th product in December of the previous year.
+
+
+=== India ===
+ 
+Wholesale Price Index (WPI)
+first published in 1902, and was one of the more economic indicators available to policy makers until it was replaced by most developed countries by the Consumer Price Index in the 1970s.
+WPI is the index that is used to measure the change in the average price level of goods traded in wholesale market. In India, a total of 697 commodities data on price level is tracked through WPI which is an indicator of movement in prices of commodities in all trade and transactions. It is also the price index which is available on a weekly basis with the shortest possible time lag only two weeks.
+Base year to calculate WPI is 2011-2012=100
+Consumer Price Index (CPI) in India comprises multiple series classified based on different economic groups. There are four series, viz the CPI UNME (Urban Non-Manual Employee), CPI AL (Agricultural Labourer), CPI RL (Rural Labourer) and CPI IW (Industrial Worker). While the CPI UNME series is published by the Central Statistical Organisation, the others are published by the Department of Labour. From February 2011 the CPI (UNME) released by CSO is replaced as CPI (urban),CPI (rural) and CPI (combined).
+Consumer Price Index is used in calculation of Dearness Allowance
+which forms an integral part of salary of a Government Employee. Base year to calculate CPI is 2012=100.
+
+
+=== Israel ===
+Israeli's Central Bureau of Statistics publishes a series of consumer and other (manufacturing, agricultural, housing, etc.) price indices every month. Both current and historical data are available on their web site, which also includes a convenient calculator that allows visitors to enter starting and ending dates and retrieve the monthly data in HTML or Microsoft Excel spreadsheet format.
+
+
+=== South Africa ===
+
+The consumer price index is the official measure of inflation in South Africa, compiled and published by Statistics South Africa (Stats SA). It is a key economic indicator used by the South African Reserve Bank (SARB) for its inflation targeting policy. The SARB's official target range for headline inflation is 3% to 6%. Since 2017, the bank has focused on anchoring inflation expectations at the 4.5% midpoint of this range.
+
+
+=== United Kingdom ===
+
+The traditional measure of inflation in the UK for many years was the Retail Prices Index (the RPI), which was first calculated in the early 20th century to evaluate the extent to which workers were affected by price changes during the first world war. An explicit inflation target was first set in October 1992 by then-Chancellor of the Exchequer Norman Lamont following the departure of the UK from the Exchange Rate Mechanism. Initially, the target was based on the RPIX, which is the RPI calculated excluding mortgage interest payments. This was felt to be a better measure of the effectiveness of macroeconomic policy. It was argued that if interest rates are used to curb inflation, then including mortgage payments in the inflation measure would be misleading. Until 1997, interest rates were set by the Treasury.
+On winning power in May 1997, the New Labour government handed control over interest rates to the Bank of England, whose Monetary Policy Committee now sets rates on the basis of an inflation target set by the Chancellor. If in any month inflation is more than one percentage point off its target, the Governor of the Bank of England is required to write to the Chancellor explaining why. Mervyn King became the first Governor to do so in April 2007, when inflation ran at 3.1% against a target 2%.
+Since 1996 the United Kingdom has also tracked a Consumer Price Index (CPI) figure, and in December 2003 its inflation target was changed to one based on the CPI normally set at 2%. Both the CPI and the RPI are published monthly by the Office for National Statistics. Some rates are linked to the CPI, others to the RPI. For example, rail fare increases are usually linked to the RPI; government index-linked National Savings Certificates were originally linked to the RPI, then changed to the lower CPI (and ultimately discontinued).
+
+
+=== United States ===
+
+In the US, CPI figures are prepared monthly by the Bureau of Labor Statistics of the United States Department of Labor.
+The CPI-U includes expenditures by all urban consumers. The CPI-W includes expenditures by consumer units with clerical workers, sales workers, craft workers, operative, service workers, or laborers. The Chained Consumer Price Index C-CPI-U, a chained index, has been introduced. The C-CPI-U tries to mitigate the substitution bias that is encountered in CPI-W and CPI-U by employing a Tornqvist formula and utilizing expenditure data in adjacent time periods in order to reflect the effect of any substitution that consumers make across item categories in response to changes in relative prices. The new measure, called a "superlative" index, is designed to be a closer approximation to a "cost-of-living" index than the other measures. The use of expenditure data for both a base period and the current period in order to average price change across item categories distinguishes the C-CPI-U from the existing CPI measures, which use only a single expenditure base period to compute the price change over time. In 1999, the BLS introduced a geometric mean estimator for averaging prices within most of the index's item categories in order to approximate the effect of consumers' responses to changes in relative prices within these item categories. The geometric mean estimator is used in the C-CPI-U in the same item categories in which it is now used in the CPI-U and CPI-W.
+The CPI has powerful political ramifications, and administrations of both parties have been tempted to change the basis for its calculation.  Especially since 1980, the definition of CPI has been altered repeatedly, though economists disagree whether the index underestimates or overestimates the true rate of decline in purchasing power.
+There are major research in progress: continuing research on technical improvements in the calculation of the CPI, and continuing work on the next major weight revision of the CPI. In 1996, the Boskin Commission found the CPI to be a biased measure, and gave a quantitative analysis of the bias. The Boskin critique helped to spur some changes in the U.S. CPI, although it was partially disputed by the BLS. Many of the changes were aimed at moving the CPI to a cost of living model which takes consumer substitutions into account and typically reduces the reported level of inflation.
+
+
+== Statistics ==
+Consumer price index (CPI) for year 2024 in % relative to 2010 is shown in below table by country.
+
+
+== See also ==
+Government budget balance
+Inflation targeting
+List of countries by inflation rate
+List of sovereign states by central bank interest rates
+
+
+== References ==
